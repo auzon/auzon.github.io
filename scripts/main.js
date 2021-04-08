@@ -6,10 +6,10 @@ let myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     let mySrc = myImage.getAttribute('src');
-    if(mySrc === 'images/alaskan-malamute.jpg') {
-      myImage.setAttribute('src','images/alaskan-malamute2.jpg');
+    if(mySrc === 'images/alaskan-malamute-happy.jpg') {
+      myImage.setAttribute('src','images/alaskan-malamute-normal.jpg');
     } else {
-      myImage.setAttribute('src','images/alaskan-malamute.jpg');
+      myImage.setAttribute('src','images/alaskan-malamute-happy.jpg');
     }
 }
 
