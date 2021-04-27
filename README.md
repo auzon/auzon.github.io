@@ -1,2 +1,2 @@
 # auzon.github.io
- Test for MDN web development guide
+ I will use this for Jekyll blog or React project
