@@ -5,15 +5,22 @@
 
 # My Projects
 
-## Pytest
+## Fig
 
-* [Fig](https://github.com/auzon/fig)
+[Fig](https://github.com/auzon/fig) is an example repository to start your web tests using BDD approach. It uses the combination of python, pytest, pytest-bdd, selenium and page object model. There are ofcourse other modules and patterns exist but these constructs the core of the repository. You can expand upon it and use it in your own projects. I will change and add new stuff to this so it will be better overtime. 
 
-## React
-* [Base Calculator](https://auzon.github.io/BaseCalculator/)
+## Base Calculator
 
-## Unity
-* [Word Game](https://github.com/auzon/WordGame): I didn't polish this game because I was bored on this project.
-* [Phrasis (Team Project)](https://github.com/YO-0-Productions/Phrasis)
+Convert between decimal, binary and hex using [Base Calculator](https://github.com/auzon/base-calculator).
+
+## Phrasis
+
+[Phrasis](https://github.com/YO-0-Productions/Phrasis) is a voice controlled game, developed for graduation project.
+
+## Word Game
+
+[Word Game](https://github.com/auzon/WordGame) is a simple mobile word game inspired by the popular Turkish TV competition show "Kelime Oyunu". I didn't polish this game because I was bored on this project.
+
+
 
 
