@@ -1,26 +1,18 @@
-# My Github Profile and Gists Page
+## My GitHub Profile and Gists Page
 
-* [Github Profile](https://github.com/auzon)
-* [Gists Page](https://gist.github.com/auzon)
+- [GitHub Profile](https://github.com/auzon)
+- [Gists Page](https://gist.github.com/auzon)
 
-# My Projects
+## My Projects
 
-## Fig
+### [Fig](https://github.com/auzon/fig)
+Fig is an example repository to start your web tests using the BDD approach. It uses a combination of Python, pytest, pytest-bdd, Selenium, and the page object model. While there are other modules and patterns available, these constructs form the core of the repository. You can expand upon it and use it in your own projects.
 
-[Fig](https://github.com/auzon/fig) is an example repository to start your web tests using BDD approach. It uses the combination of python, pytest, pytest-bdd, selenium and page object model. There are ofcourse other modules and patterns exist but these constructs the core of the repository. You can expand upon it and use it in your own projects. I will change and add new stuff to this so it will be better overtime. 
+### [Base Calculator](https://github.com/auzon/base-calculator)
+Convert between decimal, binary, and hex.
 
-## Base Calculator
+### [Phrasis](https://github.com/YO-0-Productions/Phrasis)
+Phrasis is a voice-controlled game developed as a graduation project.
 
-Convert between decimal, binary and hex using [Base Calculator](https://github.com/auzon/base-calculator).
-
-## Phrasis
-
-[Phrasis](https://github.com/YO-0-Productions/Phrasis) is a voice controlled game, developed for graduation project.
-
-## Word Game
-
-[Word Game](https://github.com/auzon/WordGame) is a simple mobile word game inspired by the popular Turkish TV competition show "Kelime Oyunu". I didn't polish this game because I was bored on this project.
-
-
-
-
+### [Word Game](https://github.com/auzon/WordGame)
+Word Game is a simple mobile word game inspired by the popular Turkish TV competition show "Kelime Oyunu". I didn't polish this game much because I lost interest in the project.
