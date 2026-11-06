@@ -16,3 +16,7 @@ Phrasis is a voice-controlled game developed for the graduation project.
 
 ### [Word Game](https://github.com/auzon/WordGame)
 Word Game is a simple game inspired by the popular Turkish TV competition show "Kelime Oyunu".
+
+## Blog Posts / Guides
+
+[How to Setup a Git Repository for a Unity Project](unity_git_setup.md)
